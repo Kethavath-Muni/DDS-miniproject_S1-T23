@@ -1,1 +1,1 @@
-# DDS-miniproject-T23
+# Automatic Visitor Counter and Power Control

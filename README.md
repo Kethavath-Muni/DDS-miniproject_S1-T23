@@ -13,7 +13,3 @@ Automatic Restrict System: Features an automatic Restriction system that stops e
 
 Energy Efficiency and Control: Incorporates power management by turning off lights in unoccupied areas and generates a live Electricity Bill
 
-#Working
-
-![Screenshot 2024-10-13 140842](https://github.com/user-attachments/assets/a8a979b5-f2a4-4427-9f72-84dc291ae338)
-

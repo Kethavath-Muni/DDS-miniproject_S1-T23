@@ -12,6 +12,7 @@ Customizable Limits: Allows users to set maximum occupancy limits for safety and
 Automatic Restrict System: Features an automatic Restriction system that stops entry when the room reaches its defined occupancy limit, enhancing security and efficiency.
 
 Energy Efficiency and Control: Incorporates power management by turning off lights in unoccupied areas and generates a live Electricity Bill
+
 #Working
 
 ![Screenshot 2024-10-13 140842](https://github.com/user-attachments/assets/a8a979b5-f2a4-4427-9f72-84dc291ae338)
